@@ -1,3 +1,3 @@
-#hamburger-menu WEB PAGE
+# HAMBURGER-MENU WEB PAGE
 
 Using HTML and CSS
